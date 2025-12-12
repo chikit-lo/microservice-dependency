@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.chikitlo</groupId>
-    <artifactId>microservice-dependency</artifactId>
+    <artifactId>microservice-dependencies</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>microservice-dependency</name>
+    <name>microservice-dependencies</name>
     <description>Spring Boot Package Dependencies</description>
     <licenses>
         <license>

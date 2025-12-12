@@ -8,7 +8,7 @@ usage:
     <dependencies>
         <dependency>
             <groupId>io.github.chikitlo</groupId>
-            <artifactId>microservice-dependency</artifactId>
+            <artifactId>microservice-dependencies</artifactId>
             <version>1.0.0</version>
             <type>pom</type>
             <scope>import</scope>
