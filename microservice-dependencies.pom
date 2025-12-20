@@ -32,10 +32,10 @@
 
         <!-- Packages version -->
         <microservice-common-utils.version>1.0.0</microservice-common-utils.version>
-        <spring-boot-starter-parent.version>4.0.0</spring-boot-starter-parent.version>
+        <spring-boot-starter-parent.version>4.0.1</spring-boot-starter-parent.version>
         <spring-cloud-dependencies.version>2025.1.0</spring-cloud-dependencies.version>
         <spring-cloud-alibaba-dependencies.version>2025.0.0.0</spring-cloud-alibaba-dependencies.version>
-        <amazon.version>2.40.6</amazon.version>
+        <amazon.version>2.40.12</amazon.version>
         <swagger.version>3.0.0</swagger.version>
         <mybatis-spring-boot.version>4.0.0</mybatis-spring-boot.version>
         <mybatis-plus-bom.version>3.5.15</mybatis-plus-bom.version>
