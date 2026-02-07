@@ -28,10 +28,10 @@
     <properties>
         <!-- Packages version -->
         <microservice-common-utils.version>1.0.0</microservice-common-utils.version>
-        <spring-boot-dependencies.version>4.0.1</spring-boot-dependencies.version>
-        <spring-cloud-dependencies.version>2025.1.0</spring-cloud-dependencies.version>
-        <spring-cloud-alibaba-dependencies.version>2025.0.0.0</spring-cloud-alibaba-dependencies.version>
-        <amazon.version>2.40.12</amazon.version>
+        <spring-boot-dependencies.version>4.0.2</spring-boot-dependencies.version>
+        <spring-cloud-dependencies.version>2025.1.1</spring-cloud-dependencies.version>
+        <spring-cloud-alibaba-dependencies.version>2025.1.0.0</spring-cloud-alibaba-dependencies.version>
+        <amazon.version>2.41.23</amazon.version>
         <swagger.version>3.0.1</swagger.version>
         <mybatis-spring-boot-starter.version>4.0.1</mybatis-spring-boot-starter.version>
         <mybatis-plus-bom.version>3.5.16</mybatis-plus-bom.version>
@@ -40,7 +40,7 @@
         <fastjson2.version>2.0.60</fastjson2.version>
         <java-jwt.version>4.5.0</java-jwt.version>
         <opencsv.version>5.12.0</opencsv.version>
-        <jasypt-spring-boot-starter.version>4.0.3</jasypt-spring-boot-starter.version>
+        <jasypt-spring-boot-starter.version>4.0.4</jasypt-spring-boot-starter.version>
         <feign-okhttp.version>13.6</feign-okhttp.version>
 
         <!-- Plugins version -->
